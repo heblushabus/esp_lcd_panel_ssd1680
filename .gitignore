@@ -1,0 +1,11 @@
+build/
+sdkconfig
+.vscode/
+.idea/
+*.elf
+*.bin
+*.map
+*,hex
+__pycache__/
+managed_components/
+dependencies.lock
