@@ -1,0 +1,5 @@
+version: "0.1.0~1"
+description: ESP LCD SSD1680 e-paper driver
+url: https://github.com/heblushabus/esp_lcd_ssd1680
+dependencies:
+  idf: ">=5.0"
